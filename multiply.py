@@ -1,5 +1,5 @@
-// multiply.js
-// return multiplication of two numbers
-function multiply(a, b) {
-    return a * b;
-};
+// divide.js
+// return division of two numbers
+function divide(a, b) {
+    return a / b;
+}
