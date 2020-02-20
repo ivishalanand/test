@@ -113,3 +113,17 @@ def process_tweet(line, tweets, tweets_gold, emoji_count):
             emoji_count[emoji] += 1
         else:
             emoji_count[emoji] = 1
+
+            function
+            multiply(a, b)
+            {
+            // TODO
+            return
+            };
+            // subtract.js
+            function
+            subtract(a, b)
+            {
+            // TODO
+            return
+        };

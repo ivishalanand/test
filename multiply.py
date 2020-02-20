@@ -1,4 +1,5 @@
-// add.js
-function add(a, b) {
-    // TODO return
-};gitignore
+// multiply.js
+// return multiplication of two numbers
+function multiply(a, b) {
+    return a * b;
+};
